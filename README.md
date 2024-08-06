@@ -21,7 +21,7 @@ git clone https://github.com/itsronalds/file-uploader
 cd file-uploader
 
 # Create virtual environment in Windows
-py -3 -m venv .venv 
+py -3 -m venv .venv
 ```
 
 ## Activate/Deactivate Virtual Environment
@@ -35,11 +35,13 @@ py -3 -m venv .venv
 ```
 
 ## Download dependencies
+
 ```$
 pip install -r requirements.txt
 ```
 
 ## Run Project
+
 ```$
 func start
 ```
