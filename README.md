@@ -6,7 +6,7 @@ Proof of concept using Python with Azure Function and Azure Storage for uploadin
 
 - [Python v3.8, v.3.9, v3.10 or v3.11](https://www.python.org/downloads/)
 - [Azure Functions Core Tools v4](https://www.npmjs.com/package/azure-functions-core-tools)
-- A [Microsoft Azure account](https://azure.microsoft.com/en-us/get-started/azure-portal/) is required to create an Azure Storage and Azure Function resource
+- [Microsoft Azure account](https://azure.microsoft.com/en-us/get-started/azure-portal/) is required to create an Azure Storage and Azure Function resource
 
 ## Clone Repository
 
