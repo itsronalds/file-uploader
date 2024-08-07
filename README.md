@@ -24,7 +24,7 @@ cd file-uploader
 py -3 -m venv .venv
 ```
 
-## Activate/Deactivate Virtual Environment
+## Activate/Deactivate Virtual Environment (Windows)
 
 ```$
 # Activate
@@ -34,7 +34,7 @@ py -3 -m venv .venv
 .venv\Scripts\Deactivate
 ```
 
-## Download dependencies
+## Install Dependencies
 
 ```$
 pip install -r requirements.txt
