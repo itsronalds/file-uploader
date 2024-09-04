@@ -72,7 +72,6 @@ def uploader(req: func.HttpRequest) -> func.HttpResponse:
         # check if all files are allowed
         for file in files.values():
             file_ext = str(file.filename).split('.')[-1]
-            print(file_ext)
 
             if file_ext not in available_extensions:
                 return func.HttpResponse(f"File {file.filename} is not allowed", status_code=400)
